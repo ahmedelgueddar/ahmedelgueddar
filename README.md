@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning full stack web development at Moroccan Institute of IT Training ...<br>
+🌱 I have an interest in computer technology, and how things work. That's why I decided that my education should be related to computers, their hardware and software languages so I’m currently learning full stack web development at Moroccan Institute of IT Training ...<br>
 
 
 ## 🌐 Socials:
