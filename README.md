@@ -1,3 +1,5 @@
+
+<img aling="right" alt="coding" width="400" height="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" >
 # 💫 About Me:
 🌱 I have an interest in computer technology, and how things work. That's why I decided that my education should be related to computers, their hardware and software languages so can speak to them ....<br>
 
