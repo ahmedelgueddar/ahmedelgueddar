@@ -1,6 +1,5 @@
 # 💫 About Me:
 🌱 I have an interest in computer technology, and how things work. That's why I decided that my education should be related to computers, their hardware and software languages so can speak to them ....<br>
-<img aling="right" alt="coding" width="400" height="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" >
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed_portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-el-gueddar-53a064200/) 
